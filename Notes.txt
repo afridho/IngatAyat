@@ -1,0 +1,3 @@
+[Variables] 
+Item1=Mazmur 90:12 
+Item2="Ajarlah kami menghitung hari-hari kami sedemikian, hingga kami beroleh hati yang bijaksana." 
